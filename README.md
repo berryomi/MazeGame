@@ -35,3 +35,8 @@ The game takes place in a maze with:
 <p align="left">
   	<img src="./screenshots/you_win.png" width="400">
 </p>
+
+## Members
+
+- Jiwon Jun
+- Jieung Park
