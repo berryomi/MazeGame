@@ -21,17 +21,17 @@ The game takes place in a maze with:
 
 ## Screenshots
 
+<h1>Instruction</h1>
 <p align="center">
-	Instruction
-  	<img src="./screenshots/instruction.png" width="700">
+  	<img src="./screenshots/instruction.png" width="400">
 </p>
 
+<h1>Game Play</h1>
 <p align="center">
-	Game Play
-  	<img src="./screenshots/gameplay.png" width="700">
+  	<img src="./screenshots/gameplay.png" width="400">
 </p>
 
+<h1>You Win</h1>
 <p align="center">
-  	You Win
-  	<img src="./screenshots/you_win.png" width="700">
+  	<img src="./screenshots/you_win.png" width="400">
 </p>
