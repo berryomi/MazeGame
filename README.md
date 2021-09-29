@@ -22,16 +22,16 @@ The game takes place in a maze with:
 ## Screenshots
 
 ###### Instruction
-<p align="center">
+<p align="left">
   	<img src="./screenshots/instruction.png" width="600">
 </p>
 
 ###### Game Play
-<p align="center">
+<p align="left">
   	<img src="./screenshots/gameplay.png" width="400">
 </p>
 
 ###### You Win
-<p align="center">
+<p align="left">
   	<img src="./screenshots/you_win.png" width="400">
 </p>
