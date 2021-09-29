@@ -6,11 +6,11 @@ A command line game where the player becomes a mouse who wants to escape the maz
 
 The player's goal is to control a mouse while collecting a certain number of cheeses to win the game. At the same time, several blind cats are wandering around the maze who will eat the mouse. If the mouse and the cat ever occupy the same cell, the player loses the game. 
 
-&nbsp;
+<br>
 
 At the start of the game, the player cannot see the overview of the maze. But as the player moves through the maze, all squares adjacent to the player are revealed.
 
-&nbsp;
+<br>
 
 The game takes place in a maze with:
 - walls (#)
@@ -21,12 +21,17 @@ The game takes place in a maze with:
 
 ## Screenshots
 
-<h1 align="center">
+<p align="center">
 	Instruction
   	<img src="./screenshots/instruction.png" width="700">
-  	Game Play
+</p>
+
+<p align="center">
+	Game Play
   	<img src="./screenshots/gameplay.png" width="700">
+</p>
+
+<p align="center">
   	You Win
   	<img src="./screenshots/you_win.png" width="700">
-</h1>
-
+</p>
